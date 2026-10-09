@@ -1,0 +1,20 @@
+* Data set for benchmarks:
+Measurements in task types
+- Solomon :
+Volume : 100 customers equivalent to 100 task instances in a snapshot - 
+this one is difference with time window, it show at-the-moment time
+each time is separate with a constant delta of time like starting time
+point is 0 - the first snapshot assign as S0, then 20s later we have a second time 
+point which is the second snapshot
+- Homberger
+Volume : 200 up to 1000 
+Solution to use Solomon
+- Add releas_time and task type
+- Using the dynamic layer to configure the dataset
+
+Q: what is the dynamic layer
+How to create it
+How it work
+
+
+

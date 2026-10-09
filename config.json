@@ -1,0 +1,73 @@
+{
+  "instance_dir": "data/instances",
+  "instance_glob": "*.xml",
+  "output_dir": "outputs",
+  "snapshot_interval": 100,
+  "simulation_start": 0,
+  "simulation_end": 1200,
+  "max_active_tasks": 30,
+  "task_type_limits": {
+    "delivery": 15,
+    "inspection": 10,
+    "emergency": 5
+  },
+  "task_type_mix": {
+    "delivery": 0.6,
+    "inspection": 0.3,
+    "emergency": 0.1
+  },
+  "release_mode": "spread",
+  "release_seed": 42,
+  "deadline_mode": "start",
+  "default_task_capabilities": {
+    "delivery": [
+      "payload"
+    ],
+    "inspection": [
+      "camera"
+    ],
+    "emergency": [
+      "payload",
+      "emergency"
+    ]
+  },
+  "task_service_time_by_type": {
+    "delivery": 30,
+    "inspection": 60,
+    "emergency": 30
+  },
+  "uav_profiles": [
+    {
+      "profile_id": "payload_only",
+      "number": 8,
+      "capabilities": [
+        "payload"
+      ],
+      "speed": 1.0,
+      "capacity": 200.0,
+      "max_travel_time": 1236.0
+    },
+    {
+      "profile_id": "camera_only",
+      "number": 8,
+      "capabilities": [
+        "camera"
+      ],
+      "speed": 1.0,
+      "capacity": 200.0,
+      "max_travel_time": 1236.0
+    },
+    {
+      "profile_id": "multirole",
+      "number": 9,
+      "capabilities": [
+        "payload",
+        "camera",
+        "emergency"
+      ],
+      "speed": 1.0,
+      "capacity": 200.0,
+      "max_travel_time": 1236.0
+    }
+  ]
+}
