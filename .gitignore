@@ -1,0 +1,14 @@
+# moi truong / IDE / cache
+.venv/
+.idea/
+.claude/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# rieng tu / ban quyen: khong dua len repo public
+chat_history/
+docs/1.pdf
+
+# RescueNet (CC BY-NC-ND 4.0): tai tu nguon goc, xem data/rescuenet/README.md
+data/rescuenet/*.png

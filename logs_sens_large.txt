@@ -1,0 +1,5 @@
+135 job, 4 da xong, chay 131 job tren 2 worker
+  50/131    2386s  ~con  3865s
+  100/131    3566s  ~con  1106s
+  131/131    4083s  ~con     0s
+xong -> results/raw_sensitivity_large.csv

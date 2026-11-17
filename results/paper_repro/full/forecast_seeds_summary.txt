@@ -1,0 +1,8 @@
+0 RF=3.94 RBF=5.05 KELM=17.11 ELM=4.56 ARIMA=8.05 OUR=1.5e+07 OUR-holdout=5.92 OUR-DE=6.31
+1 RF=4.52 RBF=5.45 KELM=22.93 ELM=5.90 ARIMA=7.66 OUR=5.7e+07 OUR-holdout=5.69 OUR-DE=6.22
+2 RF=4.98 RBF=4.96 KELM=22.39 ELM=5.31 ARIMA=10.49 OUR=1.1e+07 OUR-holdout=7.48 OUR-DE=5.09
+3 RF=4.87 RBF=7.39 KELM=23.61 ELM=7.52 ARIMA=9.97 OUR=5.2e+08 OUR-holdout=8.55 OUR-DE=15.66
+4 RF=5.35 RBF=5.27 KELM=19.83 ELM=6.07 ARIMA=6.72 OUR=3.2e+11 OUR-holdout=5.87 OUR-DE=9.39
+median over seeds: {'RF': 4.87, 'RBF': 5.27, 'KELM': 22.39, 'ELM': 5.9, 'ARIMA': 8.05, 'OUR': 57197602.71, 'OUR-holdout': 5.92, 'OUR-DE': 6.31}
+best per seed Counter({'RF': 3, 'RBF': 2})
+best per (seed,POS) of 25: Counter({'RF': 10, 'RBF': 5, 'ELM': 5, 'ARIMA': 3, 'OUR-DE': 2})

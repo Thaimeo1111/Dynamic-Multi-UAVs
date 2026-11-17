@@ -1,0 +1,16 @@
+instance,family,n,Q,horizon,group,source,path
+C101_025,C,25,200.0,1236.0,main,Solomon/GH goc (PyVRP/Instances),data/solomon_small/C101_025.txt
+C109_025,C,25,200.0,1236.0,main,Solomon/GH goc (PyVRP/Instances),data/solomon_small/C109_025.txt
+R101_025,R,25,200.0,230.0,main,Solomon/GH goc (PyVRP/Instances),data/solomon_small/R101_025.txt
+RC101_025,RC,25,200.0,240.0,main,Solomon/GH goc (PyVRP/Instances),data/solomon_small/RC101_025.txt
+C101_050,C,50,200.0,1236.0,main,Solomon/GH goc (PyVRP/Instances),data/solomon_small/C101_050.txt
+C106_050,C,50,200.0,1236.0,main,Solomon/GH goc (PyVRP/Instances),data/solomon_small/C106_050.txt
+R101_050,R,50,200.0,230.0,main,Solomon/GH goc (PyVRP/Instances),data/solomon_small/R101_050.txt
+RC101_050,RC,50,200.0,240.0,main,Solomon/GH goc (PyVRP/Instances),data/solomon_small/RC101_050.txt
+C101_100,C,100,200.0,1236.0,main,Solomon/GH goc (PyVRP/Instances),data/solomon_100/C101_100.txt
+C109_100,C,100,200.0,1236.0,main,Solomon/GH goc (PyVRP/Instances),data/solomon_100/C109_100.txt
+R101_100,R,100,200.0,230.0,main,Solomon/GH goc (PyVRP/Instances),data/solomon_100/R101_100.txt
+RC101_100,RC,100,200.0,240.0,main,Solomon/GH goc (PyVRP/Instances),data/solomon_100/RC101_100.txt
+C1_2_1_200,C,200,200.0,1351.0,large,Solomon/GH goc (PyVRP/Instances),data/homberger_200/C1_2_1_200.txt
+R1_2_1_200,R,200,200.0,634.0,large,Solomon/GH goc (PyVRP/Instances),data/homberger_200/R1_2_1_200.txt
+RC1_2_1_200,RC,200,200.0,634.0,large,Solomon/GH goc (PyVRP/Instances),data/homberger_200/RC1_2_1_200.txt

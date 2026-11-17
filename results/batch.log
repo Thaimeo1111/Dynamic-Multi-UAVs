@@ -1,0 +1,50 @@
+960 job, 0 da xong, chay 960 job tren 2 worker
+  50/960     235s  ~con  4280s
+  100/960     458s  ~con  3942s
+  150/960     710s  ~con  3833s
+  200/960     869s  ~con  3304s
+  250/960     990s  ~con  2811s
+  300/960    1105s  ~con  2431s
+  350/960    1169s  ~con  2037s
+  400/960    1206s  ~con  1689s
+  450/960    1241s  ~con  1407s
+  500/960    1270s  ~con  1169s
+  550/960    1290s  ~con   961s
+  600/960    1309s  ~con   785s
+  650/960    1324s  ~con   632s
+  700/960    1333s  ~con   495s
+  750/960    1342s  ~con   376s
+  800/960    1352s  ~con   270s
+  850/960    1356s  ~con   176s
+  900/960    1361s  ~con    91s
+  950/960    1365s  ~con    14s
+  960/960    1366s  ~con     0s
+xong -> results/raw_main.csv
+400 job, 0 da xong, chay 400 job tren 2 worker
+  50/400      61s  ~con   429s
+  100/400     119s  ~con   356s
+  150/400     145s  ~con   242s
+  200/400     169s  ~con   169s
+  250/400     184s  ~con   110s
+  300/400     198s  ~con    66s
+  350/400     204s  ~con    29s
+  400/400     211s  ~con     0s
+xong -> results/raw_ablation.csv
+60 job, 0 da xong, chay 60 job tren 2 worker
+  50/60    1085s  ~con   217s
+  60/60    1207s  ~con     0s
+xong -> results/raw_large.csv
+576 job, 0 da xong, chay 576 job tren 2 worker
+  50/576      62s  ~con   650s
+  100/576     121s  ~con   574s
+  150/576     178s  ~con   507s
+  200/576     206s  ~con   388s
+  250/576     234s  ~con   305s
+  300/576     257s  ~con   236s
+  350/576     273s  ~con   176s
+  400/576     290s  ~con   128s
+  450/576     302s  ~con    85s
+  500/576     310s  ~con    47s
+  550/576     317s  ~con    15s
+  576/576     320s  ~con     0s
+xong -> results/raw_sensitivity.csv

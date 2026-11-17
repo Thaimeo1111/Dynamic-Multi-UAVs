@@ -1,0 +1,17 @@
+=== table1 (full) ===
+=== table1 xong sau 15s ===
+=== table2 (full) ===
+[table2] n=20 xong
+[table2] n=60 xong
+[table2] n=100 xong
+[table2] n=150 xong
+[table2] n=200 xong
+[table2] n=250 xong
+[table2] n=300 xong
+[table2] n=350 xong
+[table2] n=400 xong
+=== table2 xong sau 543s ===
+=== forecast (full) ===
+=== forecast xong sau 471s ===
+=== dynamic (full) ===
+=== dynamic xong sau 80s ===
